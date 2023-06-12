@@ -1,0 +1,14 @@
+@media (max-width: 320px)
+{
+div.frame{
+    width:auto;
+    height:auto;
+    /* margin: auto; */
+    padding: 10px;
+}
+.top_cont {
+    display: block;
+}
+
+}
+    
